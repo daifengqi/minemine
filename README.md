@@ -9,7 +9,7 @@ A minimal implement for [HMR](https://webpack.js.org/concepts/hot-module-replace
 A Youtube's ancient lightweight implement for fast navigation and page updates. 一个 Youtube 的远古项目，独立实现了页面加载优化的许多功能。
 
 
-# Terminal Configs
+# Terminal Config
 
 [iterm2](https://iterm2.com/)
 
