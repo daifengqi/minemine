@@ -6,7 +6,7 @@ A minimal implement for [HMR](https://webpack.js.org/concepts/hot-module-replace
 
 [spf](https://github.com/youtube/spfjs)
 
-A Youtube's ancient lightweight implement for fast navigation and page updates. 一个 Youtube 的远古项目，独立实现了页面加载优化的许多功能。
+A Youtube's ancient lightweight implement for fast navigation and page updates. Some ideas can still serve as reference. 一个 Youtube 的远古项目，包含一些页面加载的技巧实现，至今仍可以被借鉴。
 
 
 # Terminal Config
