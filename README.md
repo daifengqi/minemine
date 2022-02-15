@@ -12,6 +12,10 @@ A Youtube's ancient lightweight implement for fast navigation and page updates. 
 
 Minimal implementations of different langauges (like Rust and TypeScript) for functional reactive programming. 不同语言的 FRP 最小实现。
 
+[mini-webpack](https://github.com/ronami/minipack)
+
+A minimal implementation of webpack. It can create dependency graph and bundle files, but cannot do HMR. 一个实现了依赖图收集和打包的mini-webpack，没有实现hmr，插件和loader等功能。
+
 # VSCode
 
 To be added.
