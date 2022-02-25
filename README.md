@@ -16,10 +16,6 @@ Minimal implementations of different langauges (like Rust and TypeScript) for fu
 
 A minimal implementation of webpack. It can create dependency graph and bundle files, but cannot do HMR. 一个实现了依赖图收集和打包的mini-webpack，没有实现hmr，插件和loader等功能。
 
-[mini-redis](https://github.com/tokio-rs/mini-redis)
-
-Incomplete Redis client and server implementation using Tokio which is helpful to understand async/await. 迷你Redis实现。
-
 # VSCode
 
 To be added.
