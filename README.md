@@ -16,6 +16,10 @@ Minimal implementations of different langauges (like Rust and TypeScript) for fu
 
 A minimal implementation of webpack. It can create dependency graph and bundle files, but cannot do HMR. 一个实现了依赖图收集和打包的mini-webpack，没有实现hmr，插件和loader等功能。
 
+[zx](https://github.com/google/zx)
+
+Replace Bash with JavaScript.
+
 # VSCode
 
 To be added.
