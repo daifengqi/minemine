@@ -20,6 +20,19 @@ A minimal implementation of webpack. It can create dependency graph and bundle f
 
 Replace Bash with JavaScript.
 
+# Maybe a startup idea
+
+[lexical](https://github.com/facebook/lexical)
+
+Web text editor.
+
+[nothing]()
+Web IDE.
+
+[nothing]()
+Web Container.
+
+
 # VSCode
 
 To be added.
