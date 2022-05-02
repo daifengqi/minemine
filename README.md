@@ -22,6 +22,10 @@ Replace Bash with JavaScript.
 
 # Maybe a startup idea
 
+[excalidraw](https://github.com/excalidraw/excalidraw)
+
+画图与设计软件，可以向figma靠拢， or low code.
+
 [lexical](https://github.com/facebook/lexical)
 
 Web text editor.
